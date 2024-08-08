@@ -1,2 +1,4 @@
-# instagram-clone-FreeCodeCamp
-instagram clone mobile using flutter with firebase
+# instagram-clone
+instagram clone mobile using flutter with my firebase
+
+references = FreeCodeCamp
